@@ -10,15 +10,13 @@
 int main(void)
 {
 	int x = 0;
-	int y = 0;
 
 	for (x = 0; x < 10; x++)
 	{
-		for (y = 0; y < 10; y++)
-			putchar('0' + x);
-		putchar('0' + y);
+		putchar('0' + x);
 		putchar(',');
 		putchar(' ');
 	}
+	putchar('\n');
 	return (0);
 }
