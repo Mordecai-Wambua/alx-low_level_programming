@@ -9,6 +9,7 @@
 int main(void)
 {
 	char alphal, alphau;
+
 	alphal = 'a';
 	alphau = 'A';
 
