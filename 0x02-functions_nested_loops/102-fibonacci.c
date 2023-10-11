@@ -8,14 +8,14 @@ int main(void)
 {
 	int x = 50;
 	int i;
-	long long a = 1, b = 2, next;
+	unsigned int a = 1, b = 2, next;
 
-	printf("%lld, %lld, ", a, b);
+	printf("%u, %u, ", a, b);
 
 	for (i = 3; i <= x; i++)
 	{
 		next = a + b;
-		printf("%lld", next);
+		printf("%u", next);
 
 		if (i < x)
 		{
