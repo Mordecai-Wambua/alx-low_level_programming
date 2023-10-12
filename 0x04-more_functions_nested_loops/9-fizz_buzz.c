@@ -25,9 +25,9 @@ int main(void)
 		}
 		else
 		{
-			_putchar('0' + x);
+			printf("%d ", x);
 		}
-		_putchar('\n');
 	}
+	printf("\n");
 	return (0);
 }
