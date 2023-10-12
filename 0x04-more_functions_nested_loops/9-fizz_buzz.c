@@ -6,29 +6,29 @@
  */
 int main(void)
 {
-	int x;
+	int n;
 
-	for (x = 1; x <= 100; x++)
+	for (n = 1; n <= 100; n++)
 	{
-		if (x == 1)
+		if (n == 1)
 		{
-		printf("%d",x);
+			printf("%d", n);
 		}
-		else if (x % 3 == 0 && x % 5 == 0)
+		else if ((n % 3 == 0) && (n % 5 == 0))
 		{
-			printf("FizzBuzz ");
+			printf(" FizzBuzz");
 		}
-		else if (x % 5 == 0)
+		else if (n % 3 == 0)
 		{
-			printf("Buzz ");
+			printf(" Fizz");
 		}
-		else if (x % 3 == 0)
+		else if (n % 5 == 0)
 		{
-			printf("Fizz ");
+			printf(" Buzz");
 		}
 		else
 		{
-			printf("%d ", x);
+			printf(" %d", n);
 		}
 	}
 	printf("\n");
