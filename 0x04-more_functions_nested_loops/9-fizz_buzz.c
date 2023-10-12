@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int x, y;
+	int x;
 
 	for (x = 1; x <= 100; x++)
 	{
@@ -27,6 +27,7 @@ int main(void)
 		{
 			printf("%d ", x);
 		}
+		if (x
 	}
 	printf("\n");
 	return (0);
