@@ -19,16 +19,14 @@ void print_remaining_days(int month, int day, int year)
 	{
 		m_days[2] = 29;
 		y_day = day;
-		
 		if (month < 1 || month > 12 || day < 1 || day > m_days[month])
-                {
-                        printf("Invalid date: %02d/%02d/%04d\n", month, day, year);
-                }
+		{
+			printf("Invalid date: %02d/%02d/%04d\n", month, day, year);
+		}
 	}
 	else
-	{		
+	{
 		y_day = day;
-
 		for (i = 1; i < month; i++)
 		{
 			y_day += m_days[i];
