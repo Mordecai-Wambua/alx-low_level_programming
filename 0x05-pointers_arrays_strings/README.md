@@ -12,3 +12,6 @@ function to print a string followed by a new line
 
 Task 04:
 function to print a string in reverse
+
+Task 05:
+function that reverses a string
