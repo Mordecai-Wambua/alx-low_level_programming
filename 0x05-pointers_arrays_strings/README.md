@@ -15,3 +15,6 @@ function to print a string in reverse
 
 Task 05:
 function that reverses a string
+
+Task 06:
+function that prints every other character of a string starting with the first characte
