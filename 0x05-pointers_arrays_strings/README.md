@@ -29,3 +29,6 @@ function to print n elements of an array of integers, followed by a new line
 n = number of elements of the arrray to be printed
 numbers must be separated by a comma followed by a spce
 numbers should be displayed in the same order as they are stored in the array
+
+Task 09:
+function to copy the string pointed to by str, including the terminating null byte (\0), to the buffer pointed to by dest
