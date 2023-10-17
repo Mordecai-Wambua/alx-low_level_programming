@@ -23,3 +23,5 @@ Task 07:
 function that prints half of a string followed by a new line
 function should print the second half of the string
 if the number of characters is odd, function should print the last characters of the string ehere n = (length_of_the_string - 1) / 2
+
+Task 08:
