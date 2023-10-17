@@ -25,3 +25,7 @@ function should print the second half of the string
 if the number of characters is odd, function should print the last characters of the string ehere n = (length_of_the_string - 1) / 2
 
 Task 08:
+function to print n elements of an array of integers, followed by a new line
+n = number of elements of the arrray to be printed
+numbers must be separated by a comma followed by a spce
+numbers should be displayed in the same order as they are stored in the array
