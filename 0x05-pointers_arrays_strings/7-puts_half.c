@@ -22,7 +22,7 @@ void puts_half(char *str)
 	{
 		x = l / 2;
 	}
-	for (i = x; i < l; i++)
+	for (i = x; i < l - 1; i++)
 	{
 		printf("%c", str[i]);
 	}
