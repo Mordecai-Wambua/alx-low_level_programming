@@ -7,11 +7,8 @@
  * @str:actual string
  * Return:char
  */
-
-char *string_toupper(char *str)
+char *cap_string(char *str)
 {
-	int i;
-
 	for (i = 0; i < strlen(str); i++)
 	{
 		if (isdigit(str[i]))
