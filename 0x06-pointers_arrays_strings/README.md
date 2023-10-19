@@ -20,3 +20,6 @@ function that changes all lowercase letters of a string to uppercase
 
 Task 6: (6-cap_string.c)
 function that capitalizes all words of a string
+
+Task 7: (7-leet.c)
+function that encodes a string to 1337
