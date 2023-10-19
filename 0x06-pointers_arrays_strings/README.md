@@ -14,3 +14,6 @@ function to compare two strings
 
 Task 4: (4-rev_array.c)
 function that reverses the content of an array of integers
+
+Task 5: (5-string_toupper.c)
+function that changes all lowercase letters of a string to uppercase
