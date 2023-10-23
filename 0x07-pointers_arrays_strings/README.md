@@ -13,3 +13,5 @@ function that gets the length of a prefix substring
 Task 04:(4-strpbrk.c)
 function that searches a sring for ant of a set of bytes
 
+Task 05:(5-strstr.c)
+function that locates a substring
