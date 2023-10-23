@@ -6,3 +6,6 @@ function that copies memory area
 
 Task 02:(2-strchr.c)
 function that locates a character in a string
+
+Task 03:(3-strspn.c)
+function that gets the length of a prefix substring
