@@ -15,3 +15,9 @@ function that searches a sring for ant of a set of bytes
 
 Task 05:(5-strstr.c)
 function that locates a substring
+
+Task 06:(7-print_chessboard.c)
+function to print the chessboard
+
+Task 07:(8-print_diagsums.c)
+function to print the sum of two diagonals of a square matrix of integers
