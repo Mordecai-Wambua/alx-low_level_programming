@@ -9,3 +9,7 @@ function that locates a character in a string
 
 Task 03:(3-strspn.c)
 function that gets the length of a prefix substring
+
+Task 04:(4-strpbrk.c)
+function that searches a sring for ant of a set of bytes
+
