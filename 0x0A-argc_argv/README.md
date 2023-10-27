@@ -6,3 +6,6 @@ program that prints the number of arguments passed to it
 
 Task 02: (2-args.c)
 program that prints all arguments it receives
+
+Task 03: (3-mul.c)
+program that multiplies two numbers
