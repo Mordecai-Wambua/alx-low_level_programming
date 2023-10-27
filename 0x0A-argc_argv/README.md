@@ -9,3 +9,7 @@ program that prints all arguments it receives
 
 Task 03: (3-mul.c)
 program that multiplies two numbers
+
+Task 04: (4-add.c)
+program that adds positive numbers
+
