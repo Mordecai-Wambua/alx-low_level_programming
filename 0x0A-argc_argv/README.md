@@ -13,3 +13,5 @@ program that multiplies two numbers
 Task 04: (4-add.c)
 program that adds positive numbers
 
+Task 05: (100-change.c)
+program that prints the minimum number of coins to make change for an amount of money
