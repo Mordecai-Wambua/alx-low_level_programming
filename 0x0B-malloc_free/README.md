@@ -6,3 +6,7 @@ function that returns a pointer to a newly allocated space in memory, which cont
 
 Task 02: (2-str_concat.c)
 function that concatenates two strings
+
+Task 03: (3-alloc_grid.c)
+function that returns a pointer to a 2 dimensional array of integers
+
