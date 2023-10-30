@@ -12,3 +12,6 @@ function that returns a pointer to a 2 dimensional array of integers
 
 Task 04: (4-free_grid.c)
 function that frees a 2 dimensional grid previously created by your alloc_grid function
+
+Task 05: (100-argstostr.c)
+function that concatenates all the arguments of your program
