@@ -9,3 +9,6 @@ function that allocates memory for an array using malloc
 
 Task 03:(2-array_range.c)
 function to create an array of integers containin values from min to max ordered from min tomax
+
+Task 04:(100-realloc.c)
+function that reallocates a memory block using malloc and free
