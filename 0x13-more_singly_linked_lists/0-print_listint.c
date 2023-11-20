@@ -11,6 +11,11 @@ size_t print_listint(const listint_t *h)
 	const listint_t *tmp;
 	size_t a = 0;
 
+	if (h == NULL)
+	{
+		return (NULL);
+	}
+
 	tmp = h;
 	while (tmp != NULL)
 	{
