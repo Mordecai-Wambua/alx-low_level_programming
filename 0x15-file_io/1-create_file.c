@@ -1,7 +1,4 @@
 #include "main.h"
-#include <sys/stat.h>
-#include <string.h>
-#include <fcntl.h>
 
 /**
  * create_file - creates a file
