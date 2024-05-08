@@ -34,6 +34,9 @@ int binary_search(int *array, size_t size, int value)
 {
 	size_t a = 0, b = (size - 1), mid;
 
+	if (array == NULL)
+		return (-1);
+
 	while (a <= b)
 	{
 		printer(array, a, b);
