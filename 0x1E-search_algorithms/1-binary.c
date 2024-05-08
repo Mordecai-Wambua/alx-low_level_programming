@@ -4,11 +4,12 @@
  * printer - prints out the portion of array being searched
  * @array: pointer to first array element
  * @a: lowest index
- * @b: hoghest index
+ * @b: highest index
  */
 void printer(int *array, size_t a, size_t b)
 {
 	printf("Searching in array: ");
+
 	for (a = a; a <= b; a++)
 	{
 		printf("%d", array[a]);
@@ -19,6 +20,7 @@ void printer(int *array, size_t a, size_t b)
 	}
 	printf("\n");
 }
+
 
 /**
  * binary_search - searches for a value in array
