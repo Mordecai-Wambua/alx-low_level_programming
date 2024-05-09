@@ -1,0 +1,20 @@
+/**
+ * printer - prints out the portion of array being searched
+ * @array: pointer to first array element
+ * @a: lowest index
+ * @b: highest index
+ */
+void printer(int *array, size_t a, size_t b)
+{
+	printf("Searching in array: ");
+
+	for (a = a; a <= b; a++)
+	{
+		printf("%d", array[a]);
+		if (a <= b - 1)
+		{
+			printf(", ");
+		}
+	}
+	printf("\n");
+}
