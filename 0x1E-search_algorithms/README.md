@@ -33,3 +33,6 @@ int **allocate_map(int n, int m)
      }
      return (map);
 }
+
+Task 107, 108:
+Big O notations
